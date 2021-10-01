@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Galuhdap
-- 👀 I’m interested in Back And
-- 🌱 I’m currently learning In University
+- 👀 I’m interested in Back End
+- 🌱 I’m currently learning In University 17 Agustus Surabaya
 - 💞️ I’m looking to collaborate on 
 develop Mobile App
 - 📫 How to reach me ...
