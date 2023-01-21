@@ -3,9 +3,11 @@
 - 👨‍🎓 I’m currently learning In University 17 Agustus Surabaya
 - 💞️ I’m looking to collaborate on 
 develop Mobile App
+Back End Enginner
 - 📫 How to reach me ...
+- 📧 : galuhdap28@gmail.com
+- 💼 : @galuhdap
 
-<!---
-Galuhdap/Galuhdap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+"Belajarlah Sesuka Hatimu , Jangan Terpaku Pada Satu Hal."
+"TAU AJA DULU , JAGO BELAKANGAN!!".
